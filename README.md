@@ -1,5 +1,7 @@
 # Olá, eu sou o Dimas Capelari!
 
+<h1 align="center">Olá, eu sou o Dimas Capelari!</h1>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" hspace="10"/>
