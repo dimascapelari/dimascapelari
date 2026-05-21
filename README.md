@@ -10,7 +10,6 @@ src="https://github-readme-stats.vercel.app/api?username=dimascapelari&show_icon
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimascapelari&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 
 </div>
- ##  
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
