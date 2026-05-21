@@ -1,5 +1,3 @@
-# Olá, eu sou o Dimas Capelari!
-
 <h1 align="center">Olá, eu sou o Dimas Capelari!</h1>
 
 <div align="center">
