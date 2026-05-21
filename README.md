@@ -1,6 +1,6 @@
 # Olá, eu sou o Dimas Capelari!
 
-<div align="center" display="flex">
+<div align="center">
 
 <img alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
